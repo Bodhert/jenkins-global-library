@@ -1,1 +1,1 @@
-# jenkis-global-library
+# jenkins-global-library
