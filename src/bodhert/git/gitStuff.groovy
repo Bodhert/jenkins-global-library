@@ -1,4 +1,4 @@
-package Bodhert.git
+package bodhert.git
 
 def gitCommit(gitPath)
 {
